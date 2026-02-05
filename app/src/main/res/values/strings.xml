@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HessGPT Mobile</string>
+    <string name="send">Envoyer</string>
+    <string name="input_hint">Posez votre question...</string>
+    <string name="loading_model">Chargement du modèle...</string>
+    <string name="model_loaded">Modèle chargé ✓</string>
+    <string name="generating">Génération en cours...</string>
+    <string name="error_loading">Erreur de chargement</string>
+</resources>
